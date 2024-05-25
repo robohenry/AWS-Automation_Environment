@@ -1,4 +1,4 @@
-# AWS Automation Enviorment 
+# AWS Automation Enviorment:
 
 This API allows you to:
 1) Get the details of your AWS network and EC2 instances
